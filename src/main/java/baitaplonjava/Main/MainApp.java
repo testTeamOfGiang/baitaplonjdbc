@@ -38,6 +38,6 @@ public class MainApp {
 				}
 			}
 		});
-		System.out.println("test chơi");
+		// System.out.println("test chơi");
 	}
 }
